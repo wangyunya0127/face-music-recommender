@@ -1,0 +1,93 @@
+[
+  {
+    "id": "local-happy",
+    "title": "快乐·晴空旋律",
+    "artist": "本地合成 · LocalSynth",
+    "emotion": "happy",
+    "file": "/songs/happy.wav",
+    "source": "local",
+    "tempo": 132,
+    "mode": "major",
+    "valence": 0.82,
+    "arousal": 0.7,
+    "desc": "大调、快速、明亮三角波、上行琶音，对应高愉悦/高唤醒。"
+  },
+  {
+    "id": "local-sad",
+    "title": "悲伤·夜雨独白",
+    "artist": "本地合成 · LocalSynth",
+    "emotion": "sad",
+    "file": "/songs/sad.wav",
+    "source": "local",
+    "tempo": 64,
+    "mode": "minor",
+    "valence": -0.72,
+    "arousal": -0.32,
+    "desc": "小调、慢速、柔和正弦波、下行旋律，对应低愉悦/低唤醒。"
+  },
+  {
+    "id": "local-angry",
+    "title": "愤怒·裂帛节拍",
+    "artist": "本地合成 · LocalSynth",
+    "emotion": "angry",
+    "file": "/songs/angry.wav",
+    "source": "local",
+    "tempo": 150,
+    "mode": "minor",
+    "valence": -0.45,
+    "arousal": 0.85,
+    "desc": "小调、极快、锯齿波、小二度不协和强奏，对应中低愉悦/高唤醒。"
+  },
+  {
+    "id": "local-fearful",
+    "title": "恐惧·暗影颤栗",
+    "artist": "本地合成 · LocalSynth",
+    "emotion": "fearful",
+    "file": "/songs/fearful.wav",
+    "source": "local",
+    "tempo": 102,
+    "mode": "minor",
+    "valence": -0.38,
+    "arousal": 0.42,
+    "desc": "小调、中速、颤音振幅调制、三全音不协和，对应低愉悦/中唤醒。"
+  },
+  {
+    "id": "local-surprised",
+    "title": "惊喜·骤光迸发",
+    "artist": "本地合成 · LocalSynth",
+    "emotion": "surprised",
+    "file": "/songs/surprised.wav",
+    "source": "local",
+    "tempo": 120,
+    "mode": "major",
+    "valence": 0.3,
+    "arousal": 0.82,
+    "desc": "大调、突然强奏与跳进、强对比力度，对应中愉悦/高唤醒。"
+  },
+  {
+    "id": "local-disgusted",
+    "title": "厌恶·浊浪纠缠",
+    "artist": "本地合成 · LocalSynth",
+    "emotion": "disgusted",
+    "file": "/songs/disgusted.wav",
+    "source": "local",
+    "tempo": 92,
+    "mode": "minor",
+    "valence": -0.6,
+    "arousal": 0.1,
+    "desc": "小调、中速、方波、半音簇不协和，对应低愉悦/低唤醒。"
+  },
+  {
+    "id": "local-neutral",
+    "title": "平静·微风随想",
+    "artist": "本地合成 · LocalSynth",
+    "emotion": "neutral",
+    "file": "/songs/neutral.wav",
+    "source": "local",
+    "tempo": 100,
+    "mode": "major",
+    "valence": 0.0,
+    "arousal": 0.0,
+    "desc": "大调、中速、平衡正弦波、平稳力度，对应中性情绪原点。"
+  }
+]
